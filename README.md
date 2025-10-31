@@ -44,7 +44,8 @@ streamlit run app.py
 ## CSV File Format
 
 The CSV should have dates as rows and asset prices as columns.
-# Notes:
+
+### Notes:
 
 The Date column must be in YYYY-MM-DD format.
 
